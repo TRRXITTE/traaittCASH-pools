@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "name": "newpool.pw",
+      "url": "https://newpool.pw/snw/",
+      "api": "please commit",
+      "type": "forknote",
+      "miningAddress": "minenice.newpool.pw",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    },
+    {
+      "name": "Semipool",
+      "url": "https://webtch.semipool.com/",
+      "api": "https://webtch.semipool.com/api",
+      "type": "forknote",
+      "miningAddress": "pool.semipool.com",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    }
+  ]
+}

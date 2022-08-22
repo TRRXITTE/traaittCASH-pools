@@ -18,7 +18,7 @@
       "mergedMining": true,
       "mergedMiningIsParentChain": false
     },    {
-      "name": "AzPool",
+      "name": "TESTPOOL",
       "url": "https://trtl.azpool.win/",
       "api": "https://trtl-api.azpool.win/",
       "type": "forknote",

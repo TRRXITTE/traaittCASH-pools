@@ -17,6 +17,14 @@
       "miningAddress": "pool.semipool.com",
       "mergedMining": true,
       "mergedMiningIsParentChain": false
+    },    {
+      "name": "AzPool",
+      "url": "https://trtl.azpool.win/",
+      "api": "https://trtl-api.azpool.win/",
+      "type": "forknote",
+      "miningAddress": "trtl-miner.azpool.win",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
     }
   ]
 }

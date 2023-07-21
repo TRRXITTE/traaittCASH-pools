@@ -4,25 +4,8 @@
       "name": "mine.traaittcash.com",
       "url": "https://mine.traaittcash.com/",
       "api": "https://mine.traaittcash.com:3109/",
-      "type": "forknote",
+      "type": "node.js",
       "miningAddress": "mine.traaittcash.com",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "Semipool",
-      "url": "https://webtch.semipool.com/",
-      "api": "https://webtch.semipool.com/api",
-      "type": "forknote",
-      "miningAddress": "pool.semipool.com",
-      "mergedMining": true,
-      "mergedMiningIsParentChain": false
-    },    {
-      "name": "TESTPOOL",
-      "url": "https://trtl.azpool.win/",
-      "api": "https://trtl-api.azpool.win/",
-      "type": "forknote",
-      "miningAddress": "trtl-miner.azpool.win",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }

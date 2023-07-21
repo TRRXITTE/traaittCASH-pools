@@ -1,12 +1,12 @@
 {
   "pools": [
     {
-      "name": "newpool.pw",
-      "url": "https://newpool.pw/snw/",
-      "api": "please commit",
+      "name": "mine.traaittcash.com",
+      "url": "https://mine.traaittcash.com",
+      "api": "https://mine.traaittcash.com:3109",
       "type": "forknote",
-      "miningAddress": "minenice.newpool.pw",
-      "mergedMining": true,
+      "miningAddress": "mine.traaittcash.coms",
+      "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
     {

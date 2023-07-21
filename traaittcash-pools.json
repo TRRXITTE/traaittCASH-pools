@@ -2,8 +2,8 @@
   "pools": [
     {
       "name": "mine.traaittcash.com",
-      "url": "https://mine.traaittcash.com",
-      "api": "https://mine.traaittcash.com:3109",
+      "url": "https://mine.traaittcash.com/",
+      "api": "https://mine.traaittcash.com:3109/",
       "type": "forknote",
       "miningAddress": "mine.traaittcash.com",
       "mergedMining": false,
